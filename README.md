@@ -1,0 +1,2 @@
+# Insurance_Premium_prediction
+Multiple Regression
